@@ -1,0 +1,7 @@
+Using tweepy library for twitter sentiment analysis using python
+
+install tweepy:
+pip install tweepy
+
+install textblob
+pip install textblob
